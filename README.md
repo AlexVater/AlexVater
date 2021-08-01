@@ -16,15 +16,15 @@
     <li><b>Nome:</b> Alexsander</li>
     <li><b>Estudando:</b> Front end</li>
     <li><b>Trabalho:</b> Analista de Testess | Summit</li>
-    <br />    <br />
-    <br />    <br />
+    <br />    
+    <br />
     <br />
     <br />
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img width="396" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVater&title_color=89C582&theme=merko&langs_count=8&layout=compact&border_color=fff" align="right" />
         </a>
-        <div>
+        <p align="center">
             <br />
             <br />
             <img src="https://img.shields.io/badge/html5%20-%23F24E1E.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,11 +40,9 @@
             <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
             <br />
             <br />
-        </div>
+        </p>
     </div>
 </div>
-<br />
-<br />
 <br />
 <br />
 <br />
