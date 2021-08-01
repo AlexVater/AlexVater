@@ -16,6 +16,8 @@
     <li><b>Nome:</b> Alexsander</li>
     <li><b>Estudando:</b> Front end</li>
     <li><b>Trabalho:</b> Analista de Testess | Summit</li>
+    <br />    <br />
+    <br />    <br />
     <br />
     <br />
     <div>
