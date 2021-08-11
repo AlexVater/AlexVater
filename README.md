@@ -57,7 +57,7 @@
                 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin" />
             </a>
             <a href="#">
-                <img src="https://img.shields.io/badge/User-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Discord" />
+                <img src="https://img.shields.io/badge/2569-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Alexsander Vater#2569" />
             </a>
         </p>
     </div>
