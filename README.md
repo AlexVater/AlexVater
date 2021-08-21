@@ -33,6 +33,7 @@
             <br />
             <img src="https://img.shields.io/badge/bootstrap-%23663399.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
             <img src="https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=white" />
+            <img src="https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
             <br />
             <img src="https://img.shields.io/badge/java-%23E60023.svg?style=for-the-badge&logo=java&logoColor=white" />
             <img src="https://img.shields.io/badge/mysql-%23F7931E.svg?style=for-the-badge&logo=mysql&logoColor=white" />
