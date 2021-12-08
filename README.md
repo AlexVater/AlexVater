@@ -35,7 +35,6 @@
             <img src="https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=white" />
             <br />
             <img src="https://img.shields.io/badge/mysql-%23F7931E.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-            <br />
             <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
             <br />
             <br />
