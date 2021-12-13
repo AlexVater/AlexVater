@@ -14,7 +14,7 @@
     <br />
     <br />
     <li><b>Nome:</b> Alexsander</li>
-    <li><b>Estudando:</b> Front end</li>
+    <li><b>Estudando:</b> Spring Boot</li>
     <li><b>Trabalho:</b> Analista de Testes | Summit</li>
     <br />    
     <br />
